@@ -2,7 +2,7 @@
 
 ## 저자 : 비숍 크리스토퍼
 
-### GitHub 작성자 : 진명훈[ (MyungHoon-Jin)](https://github.com/MyungHoon-Jin)
+### GitHub 작성자 : 진명훈[ (myunghoonJin)](https://github.com/myunghoonJin)
 ### Study 참여자 : 김진영[ (Imsoserious)](https://github.com/Imsoserious), 이태정[ (taejeongLee)](https://github.com/taejeongLee), 김호현[ (Hohyun-Kim)](https://github.com/Hohyun-Kim)
 
 ---
